@@ -1,0 +1,3 @@
+name: lambda-pulumi
+runtime: go
+description: Hello world in Lambda deployed with Pulumi
